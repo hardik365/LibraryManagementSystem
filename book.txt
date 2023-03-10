@@ -1,0 +1,14 @@
+10 The-Outsiders author1 cat 1 1 0 0 0
+20 The-Hunger-Games author2 cat2 1 1 0 0 0
+30 Hatchet author3 cat1 1 1 0 0 0
+40 Harry-Potter author3 cat2 1 1 0 0 0
+50 Holes author3 cat1 1 1 0 0 0
+60 Frame author4 cat3 3 3 0 0 0
+70 How-To-Rick-Roll author5 cat4 1 1 0 0 0
+80 Switch author6 cat1 2 2 0 0 0
+90 The-Letter author6 cat1 3 3 0 0 0
+100 Space-Facts author8 cat4 1 1 0 0 0
+110 Earth-Facts author8 cat4 1 1 0 0 0
+120 The-Earth author7 cat4 2 2 0 0 0
+130 Digital-Logic author8 cat5 3 3 0 0 0
+140 The-Moon author9 cat6 5 5 0 0 0
